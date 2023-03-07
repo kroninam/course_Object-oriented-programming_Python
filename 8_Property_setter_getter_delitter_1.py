@@ -37,4 +37,6 @@ a.balance
 del a.balance
 a.balance = 5
 a.balance
-
+print('*'*20)
+print('NEXT EXAMPLE')
+print('*'*20)
