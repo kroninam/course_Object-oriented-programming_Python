@@ -56,8 +56,6 @@ print(a.password)
 print(a.secret)
 
 ## NEXT TASK
-<<<<<<< HEAD
-=======
 # # NEXT TASK
 #
 # Задача Регистрация
@@ -139,7 +137,6 @@ print(a.login)
 
 
 
->>>>>>> f7b86f0d82a2b6db982a5ee7bb53d68ee724b9db
 
 
 
